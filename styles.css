@@ -1112,3 +1112,6 @@ input[type="range"] {
     transition: none !important;
   }
 }
+    transition: none !important;
+  }
+}
